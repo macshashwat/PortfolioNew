@@ -29,7 +29,7 @@ const ProjectInfo = [
     {
         title: "Jot Down",
         desc: "An advanced notes app with features of adding images, video to your notes with publishing functionality, facilitating seamless content sharing and collaboration. Added dark mode to the UI for better viewing experience.",
-        image: "Jotdown.png",
+        image: "JotDown.png",
         live: true,
         technologies: ["Next.js 14", "Convex", "React"],
         link: "https://jot-down-two.vercel.app/",
